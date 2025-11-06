@@ -22,12 +22,12 @@ Faire dans la console les commandes suivantes :
 ![](/assets/img/reagir-a-un-click.png)
 
 Testez en cliquant sur le bouton.
-
+3......................................................................................................................
 ## Collections d'éléments
 
 ### Trouvez tous les 'H2' du document
 
-- Puis pour chacun,
+0 Puis pour chacun,
   - suite à un click,
     - mettre la cible de l'événement en rouge
 
